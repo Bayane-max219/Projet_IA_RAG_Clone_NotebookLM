@@ -1,0 +1,44 @@
+FICHE ENTREPRISE : TECHNOVA SOLUTIONS
+
+PRÉSENTATION
+TechNova Solutions est une entreprise française spécialisée dans les logiciels
+de gestion pour les petites et moyennes entreprises. Elle a été fondée en 2018
+à Lyon par Camille Rousseau et Antoine Mercier. L'entreprise compte aujourd'hui
+85 employés répartis entre Lyon, Nantes et Toulouse.
+
+MISSION
+La mission de TechNova est de rendre la gestion d'entreprise simple et accessible
+à tous, même sans compétences techniques. L'entreprise met l'accent sur la
+confidentialité des données : toutes les informations des clients sont stockées
+en France et jamais partagées avec des tiers.
+
+PRODUITS
+TechNova propose trois produits principaux :
+1. NovaCompta : un logiciel de comptabilité en ligne, facturé 29 euros par mois.
+2. NovaStock : un outil de gestion des stocks, facturé 39 euros par mois.
+3. NovaTeam : une plateforme de gestion des ressources humaines, facturée
+   49 euros par mois.
+Les trois produits peuvent être achetés ensemble dans une offre groupée appelée
+"Pack Nova" au prix de 99 euros par mois, ce qui représente une économie de
+17 euros par rapport aux abonnements séparés.
+
+CLIENTS
+TechNova sert aujourd'hui plus de 4 200 entreprises clientes, principalement en
+France, en Belgique et en Suisse. Le taux de satisfaction client est de 94 pour
+cent selon la dernière enquête interne réalisée en 2025.
+
+SUPPORT
+Le support technique est disponible du lundi au vendredi, de 9 heures à 18 heures.
+Les clients du Pack Nova bénéficient en plus d'une assistance prioritaire par
+téléphone, avec un temps de réponse garanti inférieur à deux heures.
+
+SÉCURITÉ
+Les données sont chiffrées et sauvegardées automatiquement toutes les six heures.
+En cas de panne, TechNova garantit une restauration des données en moins de
+quatre heures. Les serveurs sont hébergés dans deux centres de données situés
+à Paris et à Marseille.
+
+ENGAGEMENT ENVIRONNEMENTAL
+Depuis 2023, TechNova compense l'intégralité de ses émissions de carbone et
+utilise uniquement de l'électricité d'origine renouvelable pour ses bureaux et
+ses serveurs.

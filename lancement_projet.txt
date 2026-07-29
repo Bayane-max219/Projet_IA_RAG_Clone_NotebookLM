@@ -1,0 +1,15 @@
+streamlit run app.py
+
+Toggle OFF (Recherche Sémantique):
+sécurité des données
+prix des produits
+
+
+ Toggle ON (Assistant RAG + qwen2.5:3b)
+ Qui a fondé TechNova et en quelle année ?
+ Combien coûte le Pack Nova ?
+
+ Test garde-fou
+ Quelle est la capitale du Japon ?
+
+ mmr = Maximal Marginal Relevance.

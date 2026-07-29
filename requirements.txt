@@ -1,0 +1,23 @@
+# ===== Interface =====
+streamlit
+
+# ===== Cœur LangChain =====
+langchain
+langchain-community
+
+# ----- Intégrations dédiées (évitent les warnings de dépréciation) -----
+langchain-huggingface   # Embeddings HuggingFace / sentence-transformers
+langchain-ollama        # LLM local via Ollama
+langchain-chroma        # Base vectorielle Chroma
+
+# ===== Base vectorielle =====
+chromadb
+
+# ===== Modèle d'embeddings (vectorisation locale) =====
+sentence-transformers
+
+# ===== Lecture des documents =====
+pymupdf                 # Lecture des PDF (PyMuPDFLoader)
+
+# ===== Réseau =====
+truststore              # Utilise les certificats du système (proxy école/entreprise)

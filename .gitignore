@@ -1,0 +1,19 @@
+# Base vectorielle générée (données locales, pas du code source)
+chroma_db/
+
+# Fichiers audio hors périmètre du projet RAG
+audio-cours-FEMME.mp3
+audio-cours-HOMME.mp3
+audio-cours-texte.txt
+
+# Sujet d'examen (contexte académique personnel)
+sujet examen/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Éditeurs
+.vscode/
